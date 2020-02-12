@@ -1,2 +1,2 @@
-# UML-Schemas
+# UML_schemas
 UML examples
